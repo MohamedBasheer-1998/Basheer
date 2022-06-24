@@ -7,6 +7,6 @@ namespace Basheer.Model
         public string Name { get; set; }
         public double Price { get; set; }
         public float Salary { get; set; }
-
+        public int CompanyID { get; set; }
     }
 }
